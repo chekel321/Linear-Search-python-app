@@ -1,9 +1,6 @@
 """
 File: search.py
 Defines function for linearSearch.
-Best-case:
-Worst-case:
-Average-case:
 """
 
 def linearSearch(target, lyst):
